@@ -128,109 +128,44 @@ Use 'whom' as the object of a verb or preposition.
 
 1. The nominalization is the subject of an empty verb.
 An _empty verb_ replaces other verbs. Examples include _have, give, take, make, do,_ and _get_.
-
-**Example**: The decision of the group is to leave at 9pm.
-  a. Change the nominalization into a verb:
-     decide
-  b. Find the character that is the subject of the verb.
-     The group
-  c. Make the character the subject of the verb.
-     The group decided to leave at 9pm.
+   ```
+   The decision of the group is to leave at 9pm.
+   ```
+   a. Change the nominalization into a verb:
+     `decide`
+   b. Find the character that is the subject of the verb.
+     `The group`
+   c. Make the character the subject of the verb.
+     `The group decided to leave at 9pm.`
 
 2. _There is_ or _There are_ followed by a nominalization.
-**Example**: There are decisions that need to be made.
-  a. Change the nominalization into a verb:
-     decide
-  b. Find the character that is the subject of the verb.
-     We 
-  c. Make the character the subject of the verb.
-     We need to decide.
+   ```
+   There are decisions that need to be made.
+   ```
+   a. Change the nominalization into a verb:
+     `decide`
+   b. Find the character that is the subject of the verb.
+     `We` 
+   c. Make the character the subject of the verb.
+     `We need to decide.`
 
 3. One nominalization is a subject, and another appears after an empty like _be, seems, has_...
-**Example**: Our failure in the last inning was due to their exploitation of our bullpen.
-  a. Change the nominalization into a verb:
-     failure -> fail, exploitation -> exploit
-  b. Find the character that is the subject of the verb.
-     our, their
-  c. Make the character the subject of the verb.
-     We fail, they exploit
-  d. Link the new clauses with a logical expression
-     simple clauses: _because, since, when_
-     conditional clauses: _if, provided that, so long as_
-     contradictions: _though, although, unless_
-
+   ```
+   Our failure in the last inning was due to their exploitation of our bullpen.
+   ```
+   a. Change the nominalization into a verb:
+     `failure` -> `fail`, `exploitation` -> `exploit`
+   b. Find the character that is the subject of the verb.
+     `our`, `their`
+   c. Make the character the subject of the verb.
+     `We fail`, `they exploit`
+   d. Link the new clauses with a logical expression
+     **simple clauses**: _because, since, when_
+     **conditional clauses**: _if, provided that, so long as_
+     **contradictions**: _though, although, unless_
+     ```
      Our failure ......................... We failed
                                            in the last inning
      was due to their..................... because
      their exploitation of our bullpen ... they exploited our bullpen.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     ```
