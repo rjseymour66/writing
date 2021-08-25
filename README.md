@@ -105,16 +105,16 @@ Use 'whom' as the object of a verb or preposition.
 
 ## Diagnose, Analyze, and Revise
 
-1. Diagnose.
-a. Ignoring intro phrases, underline the first 8 or so words in the sentence.
-b. Check for abstract nouns, and see if you have underlined a verb.
-2. Analyze.
-a. Who are the main characters? Look for real characters, not abstract.
-b. What actions are the main characters doing? Check for nominalizations.
-3. Revise.
-a. Turn the nominalizations into verbs.
-b. Make the characters the subjects of the sentence.
-c. Rewrite using conjunctions: _because, if, when, although, why, how, whether_ or _that_.
+1. Diagnose.  
+   a. Ignoring intro phrases, underline the first 8 or so words in the sentence.
+   b. Check for abstract nouns, and see if you have underlined a verb.
+2. Analyze.  
+   a. Who are the main characters? Look for real characters, not abstract.
+   b. What actions are the main characters doing? Check for nominalizations.
+3. Revise.  
+   a. Turn the nominalizations into verbs.
+   b. Make the characters the subjects of the sentence.
+   c. Rewrite using conjunctions: _because, if, when, although, why, how, whether_ or _that_.
 
 **Example**: The health care industry's inability to exert cost controls could lead to the public's decision that congressional action is needed.
 1. (The health care industry's inability to exert cost)
