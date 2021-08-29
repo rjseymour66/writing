@@ -76,13 +76,59 @@ The following table describes the different kinds of phrases:
 
 ## Clauses
 ### Relative clause
-Relative clauses modify a word, phrase, or idea in the main clause.
+A _relative clause_ modifies a word, phrase, or idea in the main clause. It beings with a relative pronoun (_who, whom, whose, that, which_) or a relative adverb (_when, where, why_). It functions as an adjective.
+
+# Lists
+
+The introduction to a list tells readers how the list relates to the discussion and how the items in the list relate to one another. Commonly, this is a clause (subject and verb) followed by a colon:
+
+```
+The software ecosystem consists of the following components:
+- Message bus
+- Logger
+...
+```
+
+If you cannot use a complete clause for the lead-in, do not use punctuation:
+```
+The ecosystem
+- reads from the message bus
+- logs error messages to stdout
+...
+```
+
+If the list items are phrases, use lowercase for the first letter and do not punctuate the end:
+
+```
+The new release cadence provides the following advantages:
+- more frequent service packs
+- faster bug triage
+- focused development
+```
+
+If the list items are complete sentences, capitalize the first word and place a period at the end of each item:
+
+```
+Eating a well-balanced meal has the following advantages:
+- You live longer.
+- You have energy to exercise.
+- They are inexpensive.
+- It will influence people that follow you on instagram.
+```
+
+If the list items are phrases followed by complete sentences, capitalize the first word in the phrase, place a period after the phrase, and write the sentence normally:
+
+```
+Include lists in documentation to help with the following:
+- Improve readability. Lists make it easier to scan a document.
+- Organize information. Format details in a list to group them together.
+...
+```
 
 
+Use parallel structure with lists. 
 
-
-
-# Sentence Structure*
+# Sentence Structure
 
 ## Modifiers
 
